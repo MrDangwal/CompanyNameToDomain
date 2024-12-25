@@ -41,8 +41,8 @@ You can access the app here: [Company Domain and Social Media Link Finder](https
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/company-link-finder.git
-cd company-link-finder
+git clone https://github.com/MrDangwal/CompanyNameToDomain.git
+cd CompanyNameToDomain
 ```
 
 ### Install Dependencies
