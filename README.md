@@ -108,25 +108,6 @@ streamlit run app.py
 
 ---
 
-## **Contributing**
-
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add new feature"
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature-name
-   ```
-5. Open a pull request.
-
----
-
 ## **Future Enhancements**
 - Add more search engines like Google and Yahoo.
 - Support for additional social media platforms (e.g., TikTok, Pinterest).
