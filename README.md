@@ -127,12 +127,6 @@ streamlit run app.py
 
 ---
 
-## **License**
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
 ## **Future Enhancements**
 - Add more search engines like Google and Yahoo.
 - Support for additional social media platforms (e.g., TikTok, Pinterest).
@@ -141,8 +135,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ---
 
 ### **Contact**
-For any questions or suggestions, feel free to reach out at **your.email@example.com**.
-
---- 
-
-With the live app link, users can directly access and test the application without setting it up locally. Make sure the app remains live and accessible for users!
+For any questions or suggestions, feel free to reach out at **dangwalabhishek5@gmail.com**.
