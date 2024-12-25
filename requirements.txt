@@ -3,3 +3,4 @@ duckduckgo-search
 requests
 tqdm
 fuzzywuzzy
+python-Levenshtein
